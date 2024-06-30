@@ -1,0 +1,2 @@
+Max Occuring Element : 15
+Min Occuring Element : 5
